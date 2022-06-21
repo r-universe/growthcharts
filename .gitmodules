@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "brokenstick"]
+	path = brokenstick
+	url = https://github.com/growthcharts/brokenstick
+	shallow = true
+	registered = true
